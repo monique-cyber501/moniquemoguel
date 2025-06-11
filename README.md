@@ -1,3 +1,6 @@
+#CyberSecurity | Hands-on Labs | Bblue Team Projects | Detection Engineering 
+
+
 # Hi, I'm Monique Moguel
 I am a determined cybersecurity learner with a growing focus on threat detection, investigation and blue team defense. I'm building my portfolio with tools like **Splunk**, **TryHackMe**, and **SIEM simulation labs**. I am documeting my progress, failures included, to showcase my thinking, growth and readiness to solve real-world security problems. 
 

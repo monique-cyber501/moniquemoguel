@@ -77,8 +77,8 @@ I document my process, reflect on challenges and prioritize **understanding over
 ### Let's Connect
 I'm actively building, learning and open to collaboration, mentorship and junior SOC opportunities. 
 
-**LinkedIn:** (https://www.linkedin.com/in/moniquemoguel)
-**Email:** (mailto:monique.cyber501@gmail.com)
+ - **LinkedIn** (https://www.linkedin.com/in/moniquemoguel)
+ - **Email** (mailto:monique.cyber501@gmail.com)
 
 
 

@@ -1,4 +1,4 @@
-#CyberSecurity | Hands-on Labs | Bblue Team Projects | Detection Engineering 
+#CyberSecurity | Hands-on Labs | Blue Team Projects | Detection Engineering 
 
 
 # Hi, I'm Monique Moguel
